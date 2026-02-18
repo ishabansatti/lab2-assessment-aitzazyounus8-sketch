@@ -38,5 +38,3 @@ float fahrenheitToCelsius(float fahrenheit) {
     //return celsius;
     return Celsius;
 }
-
-}
