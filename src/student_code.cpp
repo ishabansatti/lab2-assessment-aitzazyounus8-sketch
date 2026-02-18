@@ -13,7 +13,7 @@ float getFloatValue() {
 }
 
 char getCharValue() {
-    char var_char='A'
+    char var_char= 'A'
     return var_char;
 }
 
